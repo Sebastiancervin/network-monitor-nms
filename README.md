@@ -2,7 +2,7 @@ Mini Network Monitoring System (NMS)
 
 Sistema de monitoreo de red desarrollado con Node.js y Express.js que permite registrar dispositivos y verificar su estado mediante ping automático.
 
-🚀 Funcionalidades
+Funcionalidades
 
 Registro de dispositivos de red
 
@@ -16,7 +16,7 @@ Historial de latencia
 
 Dashboard web de monitoreo
 
-🖥 Ejemplo de monitoreo
+Ejemplo de monitoreo
 Router        🟢 Online
 Switch        🟢 Online
 Servidor      🔴 Offline
